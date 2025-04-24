@@ -1,0 +1,8 @@
+{
+   "name": "Uemf",
+   "difficulty": 6,
+   "miningInterval": 300,
+   "blockReward": 50,
+   "denom": "uemfCoin",
+   "head": null
+}
