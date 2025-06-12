@@ -1,0 +1,26 @@
+[
+  {
+    "pkey": "wallet1_public_key",
+    "solde": 1000,
+    "ReceiveTransaction": [],
+    "SendTransaction": []
+  },
+  {
+    "pkey": "wallet2_public_key",
+    "solde": 500,
+    "ReceiveTransaction": [],
+    "SendTransaction": []
+  },
+  {
+    "pkey": "wallet3_public_key",
+    "solde": 750,
+    "ReceiveTransaction": [],
+    "SendTransaction": []
+  },
+  {
+    "pkey": "wallet4_public_key",
+    "solde": 250,
+    "ReceiveTransaction": [],
+    "SendTransaction": []
+  }
+]

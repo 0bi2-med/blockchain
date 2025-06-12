@@ -1,0 +1,11 @@
+{
+  "height": 2,
+  "hash": "block2_hash",
+  "previousHash": "block1_hash",
+  "timestamp": 1749665788853,
+  "difficulty": 6,
+  "blockReward": 50,
+  "nonce": 2,
+  "miner": "miner2",
+  "transactions": []
+}
